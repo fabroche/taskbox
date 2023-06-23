@@ -5,12 +5,12 @@
     --font-weight_default: normal;
     --text-decoration_default: none;
     --letter-spacing_default: normal;
-    --font-size_12: 0.75rem;
-    --font-size_14: 0.875rem;
-    --font-size_16: 1rem;
-    --font-size_18: 1.125rem;
-    --font-size_h1: 2rem;
-    --font-size_h2: 2.5rem;
+    --font-size-body_12: 0.75rem;
+    --font-size-body_14: 0.875rem;
+    --font-size-body_16: 1rem;
+    --font-size-body_18: 1.125rem;
+    --font-size-body_h1: 2rem;
+    --font-size-body_h2: 2.5rem;
 
     /* colors */
     --primary_600: #8E24AA;
