@@ -1,0 +1,53 @@
+:root {
+
+    /* typography */
+    --font-family_default: 'Inter';
+    --font-weight_default: normal;
+    --text-decoration_default: none;
+    --letter-spacing_default: normal;
+    --font-size_12: 0.75rem;
+    --font-size_14: 0.875rem;
+    --font-size_16: 1rem;
+    --font-size_18: 1.125rem;
+    --font-size_h1: 2rem;
+    --font-size_h2: 2.5rem;
+
+    /* colors */
+    --primary_600: #8E24AA;
+    --primary_300: #BA68C8;
+    --primary_50: #E1BEE7;
+    --neutral_50: #FAFAFA;
+    --neutral_300: #E0E0E0;
+    --neutral_600: #757575;
+    --info_50: #E3F2FD;
+    --info_300: #64B5F6;
+    --info_600: #1E88E5;
+    --success_50: #E0F7FA;
+    --success_300: #4DD0E1;
+    --success_600: #00ACC1;
+    --warning_50: #FFF3E0;
+    --warning_300: #FFB74D;
+    --warning_600: #FB8C00;
+    --error_50: #FFEBEE;
+    --error_300: #E57373;
+    --error_600: #E53935;
+
+    /* spacing */
+    --margin_4: 0.25rem;
+    --margin_8: 0.5rem;
+    --margin_12: 0.75rem;
+    --margin_16: 1rem;
+    --margin_24: 1.5rem;
+    --margin_32: 2rem;
+    --margin_40: 2.5rem;
+    --margin_56: 3.5rem;
+    --width-mobile: 48rem;
+    --width-tablet: 64rem;
+    --width-desktop: 80rem;
+    --grid-column-mobile: 4;
+    --grid-column-tablet: 8;
+    --grid-column-desktop: 12;
+
+    /* shadows */
+    --box-shadow_default: -0.25rem 0.25rem 0 0;
+}
